@@ -1,2 +1,2 @@
-# instagram_clone
+# Painting_Board
 Created with CodeSandbox
